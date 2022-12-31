@@ -41,7 +41,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Battlehub\UIControls\VirtualizingTreeView\Scripts\Editor\VirtualizingScrollRectEditor.cs" />
+     <Compile Include="Assets\AkibTreeView\UIControls\VirtualizingTreeView\Scripts\Editor\VirtualizingScrollRectEditor.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Unity 2022.1.20f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>

@@ -2,12 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c683f22-2970-4694-9f42-e441480e1c7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/TreeViewManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TreeView/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TreeView/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common/InputProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common/InputProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common/InputProviderAdapter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common/InputProviderAdapter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common/Repeater.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/Common/Repeater.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c00.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/Sky_c05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/cube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Resources/cube.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/ExternalDragItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/ExternalDragItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/Rotation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/Rotation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/ToggleGameObjectState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/ToggleGameObjectState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/TreeViewDemo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/TreeViewDemo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/VirtualizingExternalDragItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/VirtualizingExternalDragItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/VirtualizingTreeViewDemo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/VirtualizingTreeViewDemo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/VirtualizingTreeViewDemo_AddItems.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/Scripts/VirtualizingTreeViewDemo_AddItems.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/TreeView.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/TreeView.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/VirtualizingTreeView.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/VirtualizingTreeView.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/VirtualizingTreeView_AddItems.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/VirtualizingTreeView_AddItems.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/VirtualizingTreeView_AddItemsSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Demo/VirtualizingTreeView_AddItemsSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/ListBox.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/ListBox.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/TreeView.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/TreeView.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/TreeViewItem.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/TreeViewItem.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingListBox.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingListBox.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingListBoxItem.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingListBoxItem.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingScrollView.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingScrollView.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingTreeView.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingTreeView.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingTreeViewItem.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingTreeViewItem.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingTreeViewItemWithToggle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Prefabs/VirtualizingTreeViewItemWithToggle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/Editor/VirtualizingScrollRectEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/Editor/VirtualizingScrollRectEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/PopupWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/PopupWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/RectTransformChangeListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/RectTransformChangeListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ItemContainer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ItemContainer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ItemDropMarker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ItemDropMarker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ItemsControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ItemsControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ListBox.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ListBox.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ListBoxItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/ListBoxItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/TreeView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/TreeView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/TreeViewDropMarker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/TreeViewDropMarker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/TreeViewItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeView/TreeViewItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeViewExpander.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/TreeViewExpander.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemContainer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemContainer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemDropMarker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemDropMarker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemsControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemsControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemsControlInputProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingItemsControlInputProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingListBox.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingListBox.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingListBoxItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingListBoxItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingScrollRect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingScrollRect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingTreeView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingTreeView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingTreeViewDropMarker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingTreeViewDropMarker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingTreeViewItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Scripts/VirtualizingTreeView/VirtualizingTreeViewItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/Collapsed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/Collapsed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/Expanded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/Expanded.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/Progress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/Progress.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/TreeViewDropMarker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/UIControls/VirtualizingTreeView/Sprites/TreeViewDropMarker.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/VirtualizingTreeView.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Battlehub/VirtualizingTreeView.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Test.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Test.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TreeViewManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Test.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Test.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +148,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Editor/UI/SelectableEditor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2JfdHZgBHic8RllCTLIyliUcUep" />
   <component name="ProjectViewState">
@@ -61,6 +196,8 @@
       <option name="presentableId" value="Default" />
       <updated>1672472986133</updated>
       <workItem from="1672473032050" duration="35000" />
+      <workItem from="1672488383135" duration="3534000" />
+      <workItem from="1672502211990" duration="3045000" />
     </task>
     <servers />
   </component>
@@ -70,6 +207,18 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
