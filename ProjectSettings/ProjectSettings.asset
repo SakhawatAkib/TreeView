@@ -770,6 +770,8 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Collab: 0
+    Purchasing: 0
     UNet: 1
     Unity Ads: 0
   luminIcon:
@@ -785,11 +787,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: f1af37de-a3f9-4df6-be72-7e42a43f53b8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: TreeView (3)
+  organizationId: sakhawath
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   playerDataPath: 
